@@ -1,0 +1,288 @@
+Epoch: 1, iteration: 0
+Autoencoder_Loss: 0.793564558029
+Epoch: 1, iteration: 1
+Autoencoder_Loss: 0.793434262276
+Epoch: 1, iteration: 2
+Autoencoder_Loss: 0.793256282806
+Epoch: 1, iteration: 3
+Autoencoder_Loss: 0.792942941189
+Epoch: 1, iteration: 4
+Autoencoder_Loss: 0.792310714722
+Epoch: 1, iteration: 5
+Autoencoder_Loss: 0.791013479233
+Epoch: 1, iteration: 6
+Autoencoder_Loss: 0.788540482521
+Epoch: 1, iteration: 7
+Autoencoder_Loss: 0.784440755844
+Epoch: 1, iteration: 8
+Autoencoder_Loss: 0.779253959656
+Epoch: 1, iteration: 9
+Autoencoder_Loss: 0.776579260826
+Epoch: 1, iteration: 10
+Autoencoder_Loss: 0.777352929115
+Epoch: 1, iteration: 11
+Autoencoder_Loss: 0.773897230625
+Epoch: 1, iteration: 12
+Autoencoder_Loss: 0.770314514637
+Epoch: 1, iteration: 13
+Autoencoder_Loss: 0.768985271454
+Epoch: 1, iteration: 14
+Autoencoder_Loss: 0.768718957901
+Epoch: 1, iteration: 15
+Autoencoder_Loss: 0.768260300159
+Epoch: 1, iteration: 16
+Autoencoder_Loss: 0.767364561558
+Epoch: 1, iteration: 17
+Autoencoder_Loss: 0.766339838505
+Epoch: 1, iteration: 18
+Autoencoder_Loss: 0.765470921993
+Epoch: 1, iteration: 19
+Autoencoder_Loss: 0.764643847942
+Epoch: 1, iteration: 20
+Autoencoder_Loss: 0.763580203056
+Epoch: 1, iteration: 21
+Autoencoder_Loss: 0.762395739555
+Epoch: 1, iteration: 22
+Autoencoder_Loss: 0.761470675468
+Epoch: 1, iteration: 23
+Autoencoder_Loss: 0.760853171349
+Epoch: 1, iteration: 24
+Autoencoder_Loss: 0.760150015354
+Epoch: 1, iteration: 25
+Autoencoder_Loss: 0.759187221527
+Epoch: 1, iteration: 26
+Autoencoder_Loss: 0.758189320564
+Epoch: 1, iteration: 27
+Autoencoder_Loss: 0.757256805897
+Epoch: 1, iteration: 28
+Autoencoder_Loss: 0.756183564663
+Epoch: 1, iteration: 29
+Autoencoder_Loss: 0.754978656769
+Epoch: 1, iteration: 30
+Autoencoder_Loss: 0.753860890865
+Epoch: 1, iteration: 31
+Autoencoder_Loss: 0.75271075964
+Epoch: 1, iteration: 32
+Autoencoder_Loss: 0.751316070557
+Epoch: 1, iteration: 33
+Autoencoder_Loss: 0.749880492687
+Epoch: 1, iteration: 34
+Autoencoder_Loss: 0.748450815678
+Epoch: 1, iteration: 35
+Autoencoder_Loss: 0.746831059456
+Epoch: 1, iteration: 36
+Autoencoder_Loss: 0.745196282864
+Epoch: 1, iteration: 37
+Autoencoder_Loss: 0.74351143837
+Epoch: 1, iteration: 38
+Autoencoder_Loss: 0.741969823837
+Epoch: 1, iteration: 39
+Autoencoder_Loss: 0.740703523159
+Epoch: 1, iteration: 40
+Autoencoder_Loss: 0.739608049393
+Epoch: 1, iteration: 41
+Autoencoder_Loss: 0.738809645176
+Epoch: 1, iteration: 42
+Autoencoder_Loss: 0.738014161587
+Epoch: 1, iteration: 43
+Autoencoder_Loss: 0.737103641033
+Epoch: 1, iteration: 44
+Autoencoder_Loss: 0.736146509647
+Epoch: 1, iteration: 45
+Autoencoder_Loss: 0.735095381737
+Epoch: 1, iteration: 46
+Autoencoder_Loss: 0.734134316444
+Epoch: 1, iteration: 47
+Autoencoder_Loss: 0.733202636242
+Epoch: 1, iteration: 48
+Autoencoder_Loss: 0.732362568378
+Epoch: 1, iteration: 49
+Autoencoder_Loss: 0.731617152691
+Epoch: 1, iteration: 50
+Autoencoder_Loss: 0.730853974819
+Epoch: 1, iteration: 51
+Autoencoder_Loss: 0.730094254017
+Epoch: 1, iteration: 52
+Autoencoder_Loss: 0.729365229607
+Epoch: 1, iteration: 53
+Autoencoder_Loss: 0.72861713171
+Epoch: 1, iteration: 54
+Autoencoder_Loss: 0.727888822556
+Epoch: 1, iteration: 55
+Autoencoder_Loss: 0.727145314217
+Epoch: 1, iteration: 56
+Autoencoder_Loss: 0.726388394833
+Epoch: 1, iteration: 57
+Autoencoder_Loss: 0.725640594959
+Epoch: 1, iteration: 58
+Autoencoder_Loss: 0.724888086319
+Epoch: 1, iteration: 59
+Autoencoder_Loss: 0.724098086357
+Epoch: 1, iteration: 60
+Autoencoder_Loss: 0.723274469376
+Epoch: 1, iteration: 61
+Autoencoder_Loss: 0.722421169281
+Epoch: 1, iteration: 62
+Autoencoder_Loss: 0.721560001373
+Epoch: 1, iteration: 63
+Autoencoder_Loss: 0.720846891403
+Epoch: 1, iteration: 64
+Autoencoder_Loss: 0.720745563507
+Epoch: 1, iteration: 65
+Autoencoder_Loss: 0.719872415066
+Epoch: 1, iteration: 66
+Autoencoder_Loss: 0.717877268791
+Epoch: 1, iteration: 67
+Autoencoder_Loss: 0.717341125011
+Epoch: 1, iteration: 68
+Autoencoder_Loss: 0.716798841953
+Epoch: 1, iteration: 69
+Autoencoder_Loss: 0.715114951134
+Epoch: 1, iteration: 70
+Autoencoder_Loss: 0.71462482214
+Epoch: 1, iteration: 71
+Autoencoder_Loss: 0.714031457901
+Epoch: 1, iteration: 72
+Autoencoder_Loss: 0.712660253048
+Epoch: 1, iteration: 73
+Autoencoder_Loss: 0.712097346783
+Epoch: 1, iteration: 74
+Autoencoder_Loss: 0.711781978607
+Epoch: 1, iteration: 75
+Autoencoder_Loss: 0.710728108883
+Epoch: 1, iteration: 76
+Autoencoder_Loss: 0.709662258625
+Epoch: 1, iteration: 77
+Autoencoder_Loss: 0.709246814251
+Epoch: 1, iteration: 78
+Autoencoder_Loss: 0.708962917328
+Epoch: 1, iteration: 79
+Autoencoder_Loss: 0.708073377609
+Epoch: 1, iteration: 80
+Autoencoder_Loss: 0.70691382885
+Epoch: 1, iteration: 81
+Autoencoder_Loss: 0.70611166954
+Epoch: 1, iteration: 82
+Autoencoder_Loss: 0.705732584
+Epoch: 1, iteration: 83
+Autoencoder_Loss: 0.705621302128
+Epoch: 1, iteration: 84
+Autoencoder_Loss: 0.705240011215
+Epoch: 1, iteration: 85
+Autoencoder_Loss: 0.704327702522
+Epoch: 1, iteration: 86
+Autoencoder_Loss: 0.702898561954
+Epoch: 1, iteration: 87
+Autoencoder_Loss: 0.70213085413
+Epoch: 1, iteration: 88
+Autoencoder_Loss: 0.702097535133
+Epoch: 1, iteration: 89
+Autoencoder_Loss: 0.702033817768
+Epoch: 1, iteration: 90
+Autoencoder_Loss: 0.701329708099
+Epoch: 1, iteration: 91
+Autoencoder_Loss: 0.699861764908
+Epoch: 1, iteration: 92
+Autoencoder_Loss: 0.698914587498
+Epoch: 1, iteration: 93
+Autoencoder_Loss: 0.69882363081
+Epoch: 1, iteration: 94
+Autoencoder_Loss: 0.699021279812
+Epoch: 1, iteration: 95
+Autoencoder_Loss: 0.698865532875
+Epoch: 1, iteration: 96
+Autoencoder_Loss: 0.697438120842
+Epoch: 1, iteration: 97
+Autoencoder_Loss: 0.695962846279
+Epoch: 1, iteration: 98
+Autoencoder_Loss: 0.695572078228
+Epoch: 1, iteration: 99
+Autoencoder_Loss: 0.695932030678
+Epoch: 1, iteration: 100
+Autoencoder_Loss: 0.696037054062
+Epoch: 1, iteration: 101
+Autoencoder_Loss: 0.694934010506
+Epoch: 1, iteration: 102
+Autoencoder_Loss: 0.693295419216
+Epoch: 1, iteration: 103
+Autoencoder_Loss: 0.692492723465
+Epoch: 1, iteration: 104
+Autoencoder_Loss: 0.692737340927
+Epoch: 1, iteration: 105
+Autoencoder_Loss: 0.693087637424
+Epoch: 1, iteration: 106
+Autoencoder_Loss: 0.692479074001
+Epoch: 1, iteration: 107
+Autoencoder_Loss: 0.690931141376
+Epoch: 1, iteration: 108
+Autoencoder_Loss: 0.689566016197
+Epoch: 1, iteration: 109
+Autoencoder_Loss: 0.689265787601
+Epoch: 1, iteration: 110
+Autoencoder_Loss: 0.689635276794
+Epoch: 1, iteration: 111
+Autoencoder_Loss: 0.6900344491
+Epoch: 1, iteration: 112
+Autoencoder_Loss: 0.68959826231
+Epoch: 1, iteration: 113
+Autoencoder_Loss: 0.687736809254
+Epoch: 1, iteration: 114
+Autoencoder_Loss: 0.686146318913
+Epoch: 1, iteration: 115
+Autoencoder_Loss: 0.685869574547
+Epoch: 1, iteration: 116
+Autoencoder_Loss: 0.686412930489
+Epoch: 1, iteration: 117
+Autoencoder_Loss: 0.6868750453
+Epoch: 1, iteration: 118
+Autoencoder_Loss: 0.686230897903
+Epoch: 1, iteration: 119
+Autoencoder_Loss: 0.68443018198
+Epoch: 1, iteration: 120
+Autoencoder_Loss: 0.68276065588
+Epoch: 1, iteration: 121
+Autoencoder_Loss: 0.682660222054
+Epoch: 1, iteration: 122
+Autoencoder_Loss: 0.683100879192
+Epoch: 1, iteration: 123
+Autoencoder_Loss: 0.683436095715
+Epoch: 1, iteration: 124
+Autoencoder_Loss: 0.68310880661
+Epoch: 1, iteration: 125
+Autoencoder_Loss: 0.680926382542
+Epoch: 1, iteration: 126
+Autoencoder_Loss: 0.679658949375
+Epoch: 1, iteration: 127
+Autoencoder_Loss: 0.679466247559
+Epoch: 1, iteration: 128
+Autoencoder_Loss: 0.679767489433
+Epoch: 1, iteration: 129
+Autoencoder_Loss: 0.68053984642
+Epoch: 1, iteration: 130
+Autoencoder_Loss: 0.679668366909
+Epoch: 1, iteration: 131
+Autoencoder_Loss: 0.67851126194
+Epoch: 1, iteration: 132
+Autoencoder_Loss: 0.677027702332
+Epoch: 1, iteration: 133
+Autoencoder_Loss: 0.675736904144
+Epoch: 1, iteration: 134
+Autoencoder_Loss: 0.675903499126
+Epoch: 1, iteration: 135
+Autoencoder_Loss: 0.676391065121
+Epoch: 1, iteration: 136
+Autoencoder_Loss: 0.676816225052
+Epoch: 1, iteration: 137
+Autoencoder_Loss: 0.676206707954
+Epoch: 1, iteration: 138
+Autoencoder_Loss: 0.675079107285
+Epoch: 1, iteration: 139
+Autoencoder_Loss: 0.67339193821
+Epoch: 1, iteration: 140
+Autoencoder_Loss: 0.67264008522
+Epoch: 1, iteration: 141
+Autoencoder_Loss: 0.671997964382
+Epoch: 1, iteration: 142
+Autoencoder_Loss: 0.672661602497
+Epoch: 1, iteration: 143
+Autoencoder_Loss: 0.673642277718
